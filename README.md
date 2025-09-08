@@ -14,7 +14,7 @@ I study exotic phases in low-dimensional systems (FCIs/FQAH, topological superco
 
 ## Active GitHub projects
 - **`labAgent`** — an agentic lab-management system for research automation (arXiv triage, tool-use, workflows, CI for science). https://github.com/caidish/labAgent
-- **`instrMCP`** — an MCP server for physics instrumentation that lets LLMs connect to (and safely interact with) quantum-device measurement setups.
+- **`instrMCP`** — an MCP server for physics instrumentation that lets LLMs connect to (and safely interact with) quantum-device measurement setups. https://github.com/caidish/instrMCP
 - **`twoDClassifier`** — an MCP tool that distinguishes 2D materials, a necessary building block for my quantum devices. https://github.com/caidish/twoDClassifier
 
 ---
